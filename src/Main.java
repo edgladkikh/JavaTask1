@@ -3,6 +3,6 @@ public class Main {
         int cost = 7900; // стоимость билета
         int bonus = 20; // стоимость 1 мили
         int mili = cost / bonus; //количество начисленных миль
-        System.out.println ((mili) + " бонусных миль ");
+        System.out.println((mili) + " бонусных миль ");
     }
 }
